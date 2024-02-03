@@ -4,6 +4,6 @@
 * [指南](guide)
 
 * 前端技术
-    * [java](/01/java/)
-    * [echarts](/01/echarts/)
+    * [java](01/java/README.md)
+    * [echarts](01/echarts/README.md)
 * 服务器端技术
